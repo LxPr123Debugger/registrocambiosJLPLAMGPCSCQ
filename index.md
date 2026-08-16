@@ -17,3 +17,6 @@
 - **Requisitos No Funcionales e Identidad Visual:**
 - **Alcances del Sistema (Triple Restricción):**
 - **Tecnologías Seleccionadas:**
+
+
+VERSION PRELIMINAR 2
