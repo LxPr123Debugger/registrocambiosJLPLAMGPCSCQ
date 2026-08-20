@@ -18,5 +18,11 @@
 - **Alcances del Sistema (Triple Restricción):**
 - **Tecnologías Seleccionadas:**
 
-
 VERSION PRELIMINAR 2
+
+
+
+INTEGRANTES:
+- Angel Manuel Patiño Garzon
+- Cristian Samuel Catolico Quiñones
+- Malvis Alejandra Ortiz Gutierrez
